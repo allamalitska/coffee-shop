@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Project Name 
+
+CoffeeShop
+
+An application provides users to make orders from the menu and pay for it, built with React, Next.js, JavaScript, and CSS.
+
+## Project Status
+
+This project is currently in development. 
+
+
+
 ## Getting Started
 
 First, run the development server:
