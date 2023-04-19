@@ -1,22 +1,7 @@
 
 export const SaladItem = ({salad, isChecked, handleChange})=>{
     const {name, ingredients, price, imageUrl } = salad;
-
     const ingredientsArray = ingredients.split(',')
-    console.log(ingredientsArray)
-    console.log(ingredientsArray.map((item)=>{console.log(item)}))
-
-
-    // const saladName = list.map((item) => {console.log(Object.keys(item))})
-
-
-
-
-    // seperate your ingredents, and creat a new component
-    //ingredients component
-    //sepeart your ingreints by comma
-    //create a new ingredients List (with map)
-    //crate a new react component IngredientItem
     return (
         <div style={{display: 'flex', flexDirection: 'column', border: '1px solid black'}}>
               <div style={{display: 'flex', flexDirection: 'row'}}>
