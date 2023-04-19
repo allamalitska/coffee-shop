@@ -1,0 +1,26 @@
+{
+  "list": [
+    { 
+        "imageUrl": "someUrl",
+        "name": "Caesar",
+        "ingredients": "chopped romaine lettuce, garlicky croutons, griled salmon",
+        "price": "15",
+        "dressing": "eggs, olive oil, lemon, Parmesan, Worcestershire sauce, and anchovies" },
+    { 
+        "imageUrl": "someUrl",
+        "name": "Greek",
+        "ingredients": "sliced cucumbers, tomatoes, green bell pepper, red onion, olives, and feta cheese",
+        "price": "10",
+        "dressing": "olive oil, red wine vinegar, lemon juice, Dijon mustard, minced garlic cloves, dried oregano, salt and pepper"
+    },    { 
+        "imageUrl": "someUrl",
+        "name": "Warm Beef",
+        "ingredients": "baby arugula, tParmigiano-Reggiano cheese, red onion, beef, tomatoes",
+        "price": "18",
+        "dressing": "honey, dijon mustard, salt, black pepper, garlic, balsamic vinegar,olive oil"
+    }
+
+  ]  
+
+}
+
